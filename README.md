@@ -12,7 +12,7 @@ What I Did: I simulated the behavior of an electron trapped in a potential well 
 
 Tech & Skills: Numerical PDEs, Eigenvalue Algorithms, MATLAB/Python.
 
-2️⃣ Physics-Informed Neural Networks (PINNs) for PDEs (2023)
+2️⃣ MTH 649 Project: PINNs to solve PDEs (2023)
 
 Course: Graduate PDEs (MTH 649 in SUNY UB)
 
