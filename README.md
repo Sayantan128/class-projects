@@ -21,8 +21,9 @@ What I Did: Built a Physics-Informed Neural Network to solve complex Partial Dif
 Tech & Skills: PINNs, PyTorch, Scientific Computing.
 
 3️⃣ Predicting Bitcoin Prices with Machine Learning (LSTM)
+Course: Machine Learning in Finance (MTH 563 in SUNY UB)
 
-What I Did: Used an LSTM (Long Short-Term Memory) neural network to predict Bitcoin prices based on past data. This project explores how effective machine learning can be in financial predictions.
+What I Did: Used an LSTM (Long Short-Term Memory) neural network to predict Bitcoin prices based on past data. Compared with the predictions of Facebook Prophet.
 
 Tech & Skills: Machine Learning, LSTM, Python, TensorFlow/Keras, Financial Modeling.
 
